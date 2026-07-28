@@ -97,7 +97,7 @@ Accuracy, Confusion Matrix, and Classification Report.
 
 ### Screenshot
 
-![Random Forest](images/random_forest.png)
+![Random Forest](https://github.com/sakshi156493/Interview_Analyzer_ML/blob/main/Screenshot%202026-07-28%20103114.png)
 
 ---
 
