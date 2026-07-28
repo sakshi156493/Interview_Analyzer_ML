@@ -107,7 +107,7 @@ Prediction using new candidate input.
 
 ### Screenshot
 
-![Prediction](images/prediction.png)
+![Prediction](https://github.com/sakshi156493/Interview_Analyzer_ML/blob/main/Screenshot%202026-07-28%20103207.png)
 
 ---
 
