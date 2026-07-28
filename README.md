@@ -76,7 +76,8 @@ Accuracy, Confusion Matrix, and Classification Report.
 
 ### Screenshot
 
-![Logistic Regression](images/logistic_regression.png)
+![Logistic Regression](https://github.com/sakshi156493/Interview_Analyzer_ML/blob/main/Screenshot%202026-07-28%20103027.png)
+
 
 ---
 
